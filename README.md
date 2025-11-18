@@ -234,7 +234,7 @@ All my learning notes, vulnerability findings, and progress updates are document
 Services Running:    24/24
 Uptime:              99.9%
 Challenges Solved:   1
-Days Learning:       1
+Days Learning:       3
 CVEs Discovered:     0 (yet!)
 ```
 
