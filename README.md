@@ -1,5 +1,14 @@
 # 🔐 Cybersecurity Homelab
 
+## 🎯 About
+
+This is my personal cybersecurity learning environment built using Docker containers. I'm documenting my journey from complete beginner to understanding web application security, penetration testing, and defensive security practices.
+
+**⚠️ Note:** This homelab runs on my private network (192.168.110.21). The links in this documentation are for my reference. All code and configurations are publicly available in this repository.
+
+**Start Date:** November 16, 2025  
+**Current Focus:** Web Application Security (OWASP Top 10)
+
 > **My journey from beginner to cybersecurity professional through hands-on practice**
 
 [![Homelab](https://img.shields.io/badge/Homelab-24%20Services-blue)](http://192.168.110.21:3000)
